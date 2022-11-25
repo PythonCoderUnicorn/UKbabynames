@@ -7,4 +7,4 @@ The data is from [Office of National Statistics, Baby names in England and Wales
 
 ## Data 
 
-The data is in `xls` and `xlsx` files and downloaded the default setting which was baby boys names (_what a surprise_!). The data ranges from 2012 to 2021.
+The data is in `xls` and `xlsx` files and downloaded were focused on baby boy names. The data ranges from 2011 to 2021.
